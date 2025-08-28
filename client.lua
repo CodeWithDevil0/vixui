@@ -1,8 +1,8 @@
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
 local Window = Rayfield:CreateWindow({
-   Name = "🔥 Example Script Hub | Game 🔫",
-   LoadingTitle = "🔫 Gun Simulator 💥",
+   Name = "VixUI | Devil",
+   LoadingTitle = "Universal Menu",
    LoadingSubtitle = "Devil",
    ConfigurationSaving = {
       Enabled = false,
@@ -16,8 +16,8 @@ local Window = Rayfield:CreateWindow({
    },
    KeySystem = true, -- Set this to true to use our key system
    KeySettings = {
-      Title = "Key | Youtube Hub",
-      Subtitle = "Key System",
+      Title = "VixUI",
+      Subtitle = "Key",
       Note = "Key In Discord Server",
       FileName = "YoutubeHubKey1", -- It is recommended to use something unique as other scripts using Rayfield may overwrite your key file
       SaveKey = false, -- The user's key will be saved, but if you change the key, they will be unable to use your script
